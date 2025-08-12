@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Adhithya. A 👋</h1>
+<h1 align="center">Hi there, I'm Adhithya. A </h1>
 
 <p align="center">
   <a href="https://github.com/code-with-adhi">
-    <img src="https://img.shields.io/badge/style-for--the--badge-000?style=for-the-badge&logo=github&logoColor=white" alt="github style"/>
+    <img src="https://img.shields.io/badge/Full--Stack%20Developer%20and%20ML%20Enthusiast-8E44AD?style=for-the-badge" alt="Full-Stack Developer and ML Enthusiast"/>
   </a>
 </p>
 
